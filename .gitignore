@@ -1,8 +1,10 @@
-History/*
-*.sldprt
+__Previews/*
 files/*
+History/*
 Project Logs for FP/*
 Project Outputs for FP/*
+Модели/*
+Панель/*
+*.sldprt
 *.html
 *.htm
-__Previews/*
