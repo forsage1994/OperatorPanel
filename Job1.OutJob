@@ -91,7 +91,7 @@ PcbPrintPreferences3=
 OutputType4=Schematic Print
 OutputName4=Schematic Prints
 OutputCategory4=Documentation
-OutputDocumentPath4=
+OutputDocumentPath4=[Project Physical Documents]
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
@@ -104,17 +104,17 @@ Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=
-ReleaseManaged2=1
-OutputBasePath2=Project Outputs for FP
+OutputFilePath2=C:\Users\Public\Documents\Altium\Projects\FP\.\Job1.PDF
+ReleaseManaged2=0
+OutputBasePath2=.\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Job1.PDF
+OutputFileName2=Schematic_diagram.PDF
 OutputFileNameMulti2=
-UseOutputNameForMulti2=1
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
 PromptOverwrite2=1
@@ -123,9 +123,9 @@ ZoomLevel2=50
 FitSCHPrintSizeToDoc2=1
 FitPCBPrintSizeToDoc2=1
 GenerateNetsInfo2=1
-MarkPins2=1
-MarkNetLabels2=1
-MarkPortsId2=1
+MarkPins2=0
+MarkNetLabels2=0
+MarkPortsId2=0
 GenerateTOC2=1
 ShowComponentParameters2=1
 GlobalBookmarks2=0
@@ -183,7 +183,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\Projects\FP\.\Job1.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\Public\Documents\Altium\Projects\FP\Project Outputs for FP\
 OpenOutputs3=1
